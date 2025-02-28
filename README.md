@@ -61,6 +61,14 @@ Para rodar os testes unitários com pytest:
 poetry run pytest
 ```
 
+### 🚀 Executando a Aplicação
+
+Para executar todo o projeto e rodar os serviços, basta rodar o seguinte comando:
+```bash
+poetry run python main.py
+```
+Isso iniciará os serviços e executará os cálculos de contratos e ordens de transporte de valores, registrando os resultados no log.
+
 ## Estrutura do Projeto
 
 ```bash
